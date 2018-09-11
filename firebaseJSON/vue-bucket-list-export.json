@@ -1,0 +1,288 @@
+{
+  "suggestions" : {
+    "1524853533067" : {
+      "category" : "Tourist Destination",
+      "completed" : "",
+      "date" : "2018-05-05",
+      "description" : "",
+      "editing" : false,
+      "lat" : 37.8078549,
+      "lng" : -122.4046075,
+      "location" : "The Embarcadero, San Francisco, CA 94133, USA",
+      "name" : "Visit the Pier",
+      "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2FDavidYu2.jpg?alt=media&token=403da230-a5af-452b-adf5-71b48d6cddb8",
+      "private" : false
+    },
+    "1524853614036" : {
+      "category" : "Action",
+      "completed" : "success",
+      "date" : "2018-04-29",
+      "description" : "",
+      "editing" : false,
+      "lat" : 37.7544066,
+      "lng" : -122.44768449999998,
+      "location" : "Twin Peaks, San Francisco, CA, USA",
+      "name" : "Climb Twin Peaks",
+      "photoURL" : "",
+      "private" : false
+    },
+    "1524853654667" : {
+      "category" : "Action",
+      "completed" : "",
+      "date" : "2018-05-05",
+      "description" : "",
+      "editing" : false,
+      "lat" : 37.8199286,
+      "lng" : -122.47825510000001,
+      "location" : "Golden Gate Bridge, San Francisco, CA, USA",
+      "name" : "Walk across the GG Bridge",
+      "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2FDavidYu3.jpg?alt=media&token=c748ada5-1a11-44f8-ac43-f2438d2bcc39",
+      "private" : false
+    },
+    "1524946672342" : {
+      "category" : "Tourist Destination",
+      "completed" : "",
+      "date" : "2018-08-11",
+      "description" : "",
+      "editing" : false,
+      "lat" : 37.8269775,
+      "lng" : -122.4229555,
+      "location" : "San Francisco, CA 94133, USA",
+      "name" : "Go to Alcatraz",
+      "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2FIMG_6971.JPG?alt=media&token=92999de0-4d21-4748-8eec-89ec6c881197",
+      "private" : false
+    },
+    "1524958098401" : {
+      "category" : "",
+      "completed" : "",
+      "date" : "",
+      "description" : "",
+      "editing" : false,
+      "lat" : 0,
+      "lng" : 0,
+      "location" : "",
+      "name" : "Catch a cheetah",
+      "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2Fcheetah.jpg?alt=media&token=c9d6bd30-e734-4fd2-8741-fbf4d30b0618",
+      "private" : false
+    }
+  },
+  "users" : {
+    "5CLEPBvOuWaGmLZEW8roxmCcVvF2" : {
+      "displayName" : "Hoover",
+      "items" : {
+        "-LBD_65jowbG5RQ-xX5_" : {
+          "category" : "Popular",
+          "completed" : "",
+          "date" : "",
+          "description" : "",
+          "editing" : false,
+          "lat" : 37.8078549,
+          "lng" : -122.4046075,
+          "location" : "The Embarcadero, San Francisco, CA 94133, USA",
+          "name" : "Visit the Pier",
+          "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2FDavidYu2.jpg?alt=media&token=403da230-a5af-452b-adf5-71b48d6cddb8",
+          "private" : false
+        },
+        "-LBD_7Vqi0Sj59jYrN7A" : {
+          "category" : "Museum",
+          "completed" : "",
+          "date" : "",
+          "description" : "Rating: 4.5",
+          "editing" : false,
+          "lat" : 37.78016369999999,
+          "lng" : -122.4161985,
+          "location" : "200 Larkin Street, San Francisco",
+          "name" : "Asian Art Museum of San Francisco",
+          "photoURL" : "",
+          "private" : false
+        },
+        "-LBD_Mq-Pw_5lWvGdeTs" : {
+          "category" : "",
+          "completed" : "success",
+          "date" : "",
+          "description" : "",
+          "editing" : false,
+          "lat" : 0,
+          "lng" : 0,
+          "location" : "",
+          "name" : "Catch a cheetah",
+          "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2Fcheetah.jpg?alt=media&token=46c1a60b-b685-4daf-854b-7fc3adf846bc",
+          "private" : false
+        }
+      },
+      "numAccess" : 1,
+      "role" : "user"
+    },
+    "7yzNvaSm1yZX0coucKtnHyA8mjC3" : {
+      "displayName" : "Marie Rogers",
+      "items" : {
+        "-LB7KX0QSfcU69al0K6n" : {
+          "category" : "Restaurant",
+          "completed" : "",
+          "date" : "",
+          "description" : "Rating: 4.3",
+          "editing" : false,
+          "lat" : 37.784727,
+          "lng" : -122.4176594,
+          "location" : "730 Larkin St, San Francisco",
+          "name" : "Lers Ros",
+          "photoURL" : "",
+          "private" : false
+        },
+        "-LB7LbEjggbbgnddOCVA" : {
+          "category" : "Tourist Destination",
+          "completed" : "",
+          "date" : "2018-05-05",
+          "description" : "",
+          "editing" : false,
+          "lat" : 37.8078549,
+          "lng" : -122.4046075,
+          "location" : "The Embarcadero, San Francisco, CA 94133, USA",
+          "name" : "Visit the Pier",
+          "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2FDavidYu2.jpg?alt=media&token=e571e485-95b4-48af-963e-e2aa71df39a0",
+          "private" : false
+        },
+        "-LB7LuLoyeAhjv1DstAZ" : {
+          "category" : "Action",
+          "completed" : "success",
+          "date" : "2018-04-29",
+          "description" : "",
+          "editing" : false,
+          "lat" : 1,
+          "lng" : 1,
+          "location" : "",
+          "name" : "Climb Twin Peaks",
+          "photoURL" : "",
+          "private" : false
+        }
+      },
+      "numAccess" : 15,
+      "role" : "admin"
+    },
+    "GQMZIrntibTF7xnruJjQPCOC9j43" : {
+      "displayName" : "Sara",
+      "items" : {
+        "-LBGpCtUhoQHpSXPT0RX" : {
+          "category" : "Popular",
+          "completed" : "success",
+          "date" : "",
+          "description" : "",
+          "editing" : false,
+          "lat" : 37.8078549,
+          "lng" : -122.4046075,
+          "location" : "The Embarcadero, San Francisco, CA 94133, USA",
+          "name" : "Visit the Pier",
+          "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2FDavidYu2.jpg?alt=media&token=403da230-a5af-452b-adf5-71b48d6cddb8",
+          "private" : false
+        },
+        "-LBGpDvDsQoGkUwqotvO" : {
+          "category" : "Popular",
+          "completed" : "success",
+          "date" : "",
+          "description" : "",
+          "editing" : false,
+          "lat" : 37.7544066,
+          "lng" : -122.44768449999998,
+          "location" : "Twin Peaks, San Francisco, CA, USA",
+          "name" : "Climb Twin Peaks",
+          "photoURL" : "",
+          "private" : false
+        }
+      },
+      "numAccess" : 2,
+      "role" : "user"
+    },
+    "m140vEZNJKgQTxugjWPaVolxPFy1" : {
+      "displayName" : "Teddy Ruby",
+      "items" : {
+        "-LB7M3dIbMB18A8uqWXg" : {
+          "category" : "Action",
+          "completed" : "",
+          "date" : "2018-05-05",
+          "description" : "",
+          "editing" : false,
+          "lat" : 37.8199286,
+          "lng" : -122.47825510000001,
+          "location" : "Golden Gate Bridge, San Francisco, CA, USA",
+          "name" : "Walk across the GG Bridge",
+          "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2FDavidYu3.jpg?alt=media&token=df4e433e-2218-4fd9-bcc3-22e8b108b939",
+          "private" : false
+        },
+        "-LB7M6h8wu7jEm7_MalF" : {
+          "category" : "Restaurant",
+          "completed" : "",
+          "date" : "",
+          "description" : "Rating: 4.3",
+          "editing" : false,
+          "lat" : 37.7781821,
+          "lng" : -122.4217949,
+          "location" : "300 Grove Street, San Francisco",
+          "name" : "Jardinière",
+          "photoURL" : "",
+          "private" : false
+        },
+        "-LB7M8d9lMjpSEIK3cJd" : {
+          "category" : "Park",
+          "completed" : "",
+          "date" : "",
+          "description" : "Rating: 5",
+          "editing" : false,
+          "lat" : 37.7836914,
+          "lng" : -122.4161723,
+          "location" : "305 Hyde Street, San Francisco",
+          "name" : "SFGardening.Com",
+          "photoURL" : "",
+          "private" : false
+        },
+        "-LBCl0vR_9hMN4x9WuEa" : {
+          "category" : "Popular",
+          "completed" : "",
+          "date" : "",
+          "description" : "",
+          "editing" : false,
+          "lat" : 37.7544066,
+          "lng" : -122.44768449999998,
+          "location" : "Twin Peaks, San Francisco, CA, USA",
+          "name" : "Climb Twin Peaks",
+          "photoURL" : "",
+          "private" : false
+        },
+        "-LBClMOFzWqFw-LIcdpO" : {
+          "category" : "Restaurant",
+          "completed" : "",
+          "date" : "",
+          "description" : "Rating: 4.3",
+          "editing" : false,
+          "lat" : 37.7825768,
+          "lng" : -122.4079816,
+          "location" : "16 Mint Plaza, San Francisco",
+          "name" : "54 Mint SF",
+          "photoURL" : "",
+          "private" : false
+        }
+      },
+      "numAccess" : 4,
+      "role" : "user"
+    },
+    "wMCoXepJxTViIKUPFhpOZ1EbVp82" : {
+      "displayName" : "Bilva Sanaba",
+      "items" : {
+        "-LBCtu3RyAad4KjhVBWX" : {
+          "category" : "Tourist Destination",
+          "completed" : "",
+          "date" : "2018-08-11",
+          "description" : "",
+          "editing" : false,
+          "lat" : 37.8269775,
+          "lng" : -122.4229555,
+          "location" : "San Francisco, CA 94133, USA",
+          "name" : "Go to Alcatraz",
+          "photoURL" : "https://firebasestorage.googleapis.com/v0/b/vue-bucket-list.appspot.com/o/blimages%2FIMG_6971.JPG?alt=media&token=efc4384e-cafb-4efb-83bd-4032fb9019da",
+          "private" : false
+        }
+      },
+      "numAccess" : 1,
+      "role" : "user"
+    }
+  }
+}

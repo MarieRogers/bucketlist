@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Mock Up for Final Project</title>
+        <meta charset="utf-8"/>
+        <meta name="author" content="Marie Rogers"/>
+    </head>
+    <body>
+        <h1>Final Project Mock Up</h1>
+        <h2>Overview:</h2>
+        <p>The web app will be a San Francisco specific bucket list app that will allow user to customize a personal bucket list, refer to suggestions of possible bucket list items, and view other user's recent bucket list items.<br><br>It will be built using Vue.js with Node.js to create components. The components will be structured so that they are resuable for the bucket list items. It will be integreated with Firebase to allow users to save their data and to retain user information (login, etc).<br><br>The data for the project will come from the public Yelp API which will allow me to access information about San Fracisco's popular restaurants, parks, museums, etc. I may change slightly which specific suggestions I will give, but it will defintiely include restaurants.</p>
+        <p>The Yelp API allows a person to specify data by city, and I will use only San Fracisco specific data. An example of the request for a search for businesses will return the following through the Yelp API. It will thus allow me to access a title, a description (categories.title), and an image for the entry. I can specifically search for categories like museums and parks as well.</p>
+        <img src="mockupimgs/Screen%20Shot%202018-04-09%20at%207.45.07%20PM.png" alt="yelp">
+        <h2>Pages:</h2>
+        <h3>Login</h3>
+        <p>The login screen will be relatively basic. It will have in large print "EXPLORE SF: BUCKET LIST" and have two buttons that link to Sign Up and Sign In pages and a smaller button that allows a user to login as Guest</p>
+        <h4>Sign Up</h4>
+        <p>Sign Up page will include inputs for name, email, password as well as a submit button.</p>
+        <h4>Sign In</h4>
+        <p>Sign In page will include inputs for username and password, a link to Sign Up page for non-users and a submit button.</p>
+        <h3>Home</h3>
+        <p>Home page will be linked from all other pages from a navbar button. It will have the same basic layout of the Login page, but the two buttons will take a user to Bucket List and Suggestions pages. For Guest users, this page will only have a button to the Suggestions page.</p>
+        <h3>Bucket List</h3>
+        <img style="width: 600px" src="mockupimgs/Doc%20Apr%2009,%202018,%201911-1.jpg" alt="bucket">
+        <p>Bucket List page will have a button that will take a user to the See Suggestions page. It will also have a list of bucket list items and a button to Add a new bucket list item. Bucket list items will contain an image, title, description, date, and location. A user will be able to check off completed bucket list items.</p>
+        <h3>Suggestions</h3>
+        <img style="width: 600px" src="mockupimgs/Doc%20Apr%2009,%202018,%201911(1)-1.jpg" alt="suggestions">
+        <p>The Suggestions page will have a button that will take a user to their Bucket List page (unless they are a Guest user). It will also have tabs for "Restaurants," "Museums," "Parks," and "Popular" (the specific tabs may change based on what the Yelp API can provide). The "Restaurants" and other type tags will take users to suggested bucket list items in those areas that they can then add to their personal bucket list. The "Popular" tag will take users to bucket list items that have recntly been added by other users which they can also add to their own bucket list.</p>
+        <h3>Map</h3>
+        <p>I would like to also add a page that implements the Google Maps API that will mark the locations of all the bucket list items that a user has stored in their bucket list</p>
+        <h2>Conclusion:</h2>
+        <p>There are many other aspects of the webpage that I would like to add, time permiting, but this is the basic outline of what I want my final project to consist of!</p>
+    </body>
+</html>
